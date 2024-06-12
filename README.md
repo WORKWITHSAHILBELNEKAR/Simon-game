@@ -4,7 +4,7 @@
 challenging: replicate the sequence of lights played by the game.<br>
 
 <b> How to Play </b>:- Start the Game: Turn on the game press any key. <br>
-<b> Follow the Sequence </b>: The game begins by lighting up one button and <b> playing its corresponding blink. <br>
+<b> Follow the Sequence </b>: The game begins by lighting up one button and playing its corresponding blink. <br>
 <b> Repeat the Sequence </b>: Press the buttons in the same order as they lit up. Each correct repetition adds another step to the sequence. <br>
 <b> Progressive Difficulty</b> : The sequence length increases with each successful round, testing your memory and attention. <br>
 <b> Game Over</b>: The game ends when you fail to reproduce the sequence correctly. <br>
